@@ -29,8 +29,8 @@ window.addEventListener('scroll', function () {
   }
 })
 
-/* Testimonials carousel slider swiper */
-const swiper = new swiper('.swiper-container', {
+/* Testimonials carousel slider swiper 
+const swiper = new Swiper('.swiper-container', {
   slidesPerView: 1,
   pagination: {
     el: '.swiper-pagination'
@@ -38,9 +38,10 @@ const swiper = new swiper('.swiper-container', {
   mousewheel: true,
   keyboard: true
 })
+*/
 
 /* ScrollReveal: Mostrar elementos quando der scroll na página */
-const scrollReveal = scrollReveal({
+const scrollReveal = ScrollReveal({
   origin: 'top',
   distance: '30px',
   duration: 700,

@@ -365,7 +365,8 @@ nav.show div.icon-close {
 }
 
 #testimonials blockquote p {
-  font: 400 1.875rem 'Caveat', sans-serif;
+  /*pode ser desativado essa font*/
+  font: 700 1.3rem 'Caveat', serif;
   position: relative;
   text-indent: 1.875rem;
   margin-bottom: 1.5rem;
@@ -399,7 +400,7 @@ nav.show div.icon-close {
 
 .swiper-slide {
   height: auto;
-  padding: 4rem 1rem;
+  padding: 0.5rem 0rem;
 }
 
 .swiper-pagination-bullet {
