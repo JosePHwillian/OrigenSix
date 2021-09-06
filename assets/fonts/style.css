@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ppjz6l');
+  src:  url('fonts/icomoon.eot?ppjz6l#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ppjz6l') format('truetype'),
+    url('fonts/icomoon.woff?ppjz6l') format('woff'),
+    url('fonts/icomoon.svg?ppjz6l#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-camera:before {
+  content: "\e900";
+}
+.icon-movie:before {
+  content: "\e900";
+}
+.icon-video:before {
+  content: "\e900";
+}
+.icon-record:before {
+  content: "\e900";
+}
+.icon-film:before {
+  content: "\e900";
+}
+.icon-pictures:before {
+  content: "\e901";
+}
+.icon-images:before {
+  content: "\e901";
+}
+.icon-photos:before {
+  content: "\e901";
+}
+.icon-polaroid:before {
+  content: "\e901";
+}
+.icon-camera1:before {
+  content: "\e902";
+}
+.icon-phone:before {
+  content: "\e903";
+}
+.icon-close:before {
+  content: "\e904";
+}
+.icon-facebook:before {
+  content: "\e905";
+}
+.icon-instagram:before {
+  content: "\e906";
+}
+.icon-mail:before {
+  content: "\e907";
+}
+.icon-map-pin:before {
+  content: "\e908";
+}
+.icon-menu:before {
+  content: "\e909";
+}
+.icon-whatsapp:before {
+  content: "\e90a";
+}
+.icon-youtube:before {
+  content: "\e90b";
+}
+.icon-close1:before {
+  content: "\e90c";
+}
+.icon-video-camera:before {
+  content: "\e914";
+}
